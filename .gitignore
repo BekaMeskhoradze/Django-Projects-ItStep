@@ -2,3 +2,4 @@
 .idea/
 __pycache__/
 password/password.py
+django_init.py
